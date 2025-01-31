@@ -19,8 +19,8 @@ Ensure you have the following installed on your system:
 ## Installation
 1. Clone this repository:
    ```sh
-   git clone 
-   cd wise-automation
+   git clone https://github.com/mirubiad/WiseCodingTask.git
+   cd WiseCodingTask
    ```
 2. Install dependencies:
    ```sh
